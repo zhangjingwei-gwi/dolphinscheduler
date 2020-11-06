@@ -34,13 +34,13 @@
           </router-link>
         </div>
       </div>
-      <div class="clearfix list">
-        <div class="nav-links">
-          <router-link :to="{ path: '/resource'}" tag="a" active-class="active">
-            <span><em class="ansiconfont ans-icon-folder-empty"></em>{{$t('Resources manage')}}</span><strong></strong>
-          </router-link>
-        </div>
-      </div>
+      <!--<div class="clearfix list">-->
+        <!--<div class="nav-links">-->
+          <!--<router-link :to="{ path: '/resource'}" tag="a" active-class="active">-->
+            <!--<span><em class="ansiconfont ans-icon-folder-empty"></em>{{$t('Resources manage')}}</span><strong></strong>-->
+          <!--</router-link>-->
+        <!--</div>-->
+      <!--</div>-->
       <div class="clearfix list">
         <div class="nav-links">
           <router-link :to="{ path: '/datasource'}" tag="a" active-class="active">

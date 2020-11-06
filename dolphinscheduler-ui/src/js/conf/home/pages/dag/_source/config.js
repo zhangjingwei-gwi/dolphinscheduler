@@ -255,18 +255,18 @@ const tasksType = {
     desc: 'SQL',
     color: '#7A98A1'
   },
-  SPARK: {
-    desc: 'SPARK',
-    color: '#E46F13'
-  },
-  FLINK: {
-    desc: 'FLINK',
-    color: '#E46F13'
-  },
-  MR: {
-    desc: 'MapReduce',
-    color: '#A0A5CC'
-  },
+  // SPARK: {
+  //   desc: 'SPARK',
+  //   color: '#E46F13'
+  // },
+  // FLINK: {
+  //   desc: 'FLINK',
+  //   color: '#E46F13'
+  // },
+  // MR: {
+  //   desc: 'MapReduce',
+  //   color: '#A0A5CC'
+  // },
   PYTHON: {
     desc: 'PYTHON',
     color: '#FED52D'
@@ -283,10 +283,10 @@ const tasksType = {
     desc: 'DataX',
     color: '#1fc747'
   },
-  SQOOP: {
-    desc: 'SQOOP',
-    color: '#E46F13'
-  },
+  // SQOOP: {
+  //   desc: 'SQOOP',
+  //   color: '#E46F13'
+  // },
   CONDITIONS: {
     desc: 'CONDITIONS',
     color: '#E46F13'
